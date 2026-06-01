@@ -1,0 +1,7 @@
+{
+  "name": "星际粒子系统",
+  "description": "一个完整的Three.js交互式3D粒子系统，带有辉光效果，在三维空间中形成深度感。并提供直观的赛博风UI界面进行参数调节和模式切换。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
